@@ -1,0 +1,88 @@
+body {
+    margin: 0;
+    padding: 0
+}
+
+.form-container {
+    background-color: cornflowerblue;
+    width: 555px;
+    margin: auto;
+    /* height: 1000px; */
+    position: absolute;
+    left: 24%;
+    top: 12%;
+}
+
+.input-container {
+    padding-left: 117px;
+    padding-top: 30px;
+}
+
+.input-container input {
+    padding: 8px;
+    margin-left: 41px;
+}
+
+.input-container label {
+    color: white;
+    font-size: 16px;
+    font-weight: 500;
+}
+
+.button-container {
+    width: 100px;
+    margin-left: 199px;
+}
+
+#submit {
+    background-color: white;
+    border: none;
+    margin-bottom: 31px;
+    margin-top: 22px;
+    /* margin-left: 0px; */
+    width: 182px;
+    padding: 9px;
+    font-size: 17px;
+    font-weight: 600;
+    color: darkblue;
+    cursor: pointer;
+}
+
+.img-container {
+    position: absolute;
+    top: 54%;
+}
+
+.img-container img {
+    width: 20%;
+}
+
+.menu-ul {
+    display: flex;
+    justify-content: space-around;
+    list-style: none;
+}
+
+.menu-item {
+    /* display: flex; */
+    position: fixed;
+    /* line-height: 8px; */
+    width: 100%;
+    background-color: darkblue;
+    padding: 3px;
+    color: white;
+    /* margin-bottom: 138px; */
+    font-size: 16px;
+    font-weight: 500;
+    font-family: system-ui;
+    z-index: 1;
+}
+
+.menu-ul a {
+    color: white;
+}
+
+.home-text {
+    padding: 200px;
+    text-align: center;
+}
