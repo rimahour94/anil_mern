@@ -86,3 +86,20 @@ body {
     padding: 200px;
     text-align: center;
 }
+
+.text-container {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.text-container button {
+    border: none;
+    width: 26%;
+    height: 30px;
+    margin: auto;
+    background-color: yellow;
+    font-size: 14px;
+    font-weight: 600;
+    color: brown;
+    cursor: pointer;
+}
