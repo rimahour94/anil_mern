@@ -1,3 +1,5 @@
+import PropsHandling from "./components/PropsHandling";
+
 function App() {
   const dt = new Date();
   console.log(dt);
@@ -18,6 +20,7 @@ function App() {
 
   return (
     <>
+      <PropsHandling />
       <h2>{text}</h2>
     </>
   );
