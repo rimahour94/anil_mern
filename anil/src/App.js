@@ -1,5 +1,6 @@
-import PropsHandling from "./components/PropsHandling";
-
+import HooksUseState from "./components/hooks/HooksUseState";
+import PropsHandling from "./components/props/PropsHandling";
+import "bootstrap/dist/css/bootstrap.min.css";
 function App() {
   const dt = new Date();
   console.log(dt);
@@ -20,8 +21,9 @@ function App() {
 
   return (
     <>
-      <PropsHandling />
+      {/* <PropsHandling /> */}
       <h2>{text}</h2>
+      <HooksUseState />
     </>
   );
 }

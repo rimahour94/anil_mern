@@ -1,0 +1,79 @@
+[
+  {
+    "book_id": 123,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 234,
+    "book_name": "JAVA",
+    "availability": false,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 345,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 456,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 567,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 678,
+    "book_name": "JAVA",
+    "availability": false,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 789,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 910,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 911,
+    "book_name": "JAVA",
+    "availability": false,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 912,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  },
+  {
+    "book_id": 913,
+    "book_name": "JAVA",
+    "availability": true,
+    "assigned_students": ["Aman", "Anil", "Ritesh"],
+    "recomended_for": "Computer Science Students"
+  }
+]
