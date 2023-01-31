@@ -8,45 +8,45 @@
   },
   {
     "book_id": 234,
-    "book_name": "JAVA",
+    "book_name": "AutoCadd",
     "availability": false,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Computer Mechanical/Civil Eng"
   },
   {
     "book_id": 345,
-    "book_name": "JAVA",
+    "book_name": "REACTJS",
     "availability": true,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Frontend"
   },
   {
     "book_id": 456,
-    "book_name": "JAVA",
+    "book_name": "Accounts",
     "availability": true,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Commerce"
   },
   {
     "book_id": 567,
-    "book_name": "JAVA",
+    "book_name": "Nodejs",
     "availability": true,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Backend"
   },
   {
     "book_id": 678,
-    "book_name": "JAVA",
+    "book_name": "Flutter",
     "availability": false,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Frontend"
   },
   {
     "book_id": 789,
-    "book_name": "JAVA",
+    "book_name": "Python",
     "availability": true,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Backend"
   },
   {
     "book_id": 910,
@@ -57,14 +57,14 @@
   },
   {
     "book_id": 911,
-    "book_name": "JAVA",
+    "book_name": "Android",
     "availability": false,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
-    "recomended_for": "Computer Science Students"
+    "recomended_for": "Mobile App"
   },
   {
     "book_id": 912,
-    "book_name": "JAVA",
+    "book_name": "JAVA SCRIPT",
     "availability": true,
     "assigned_students": ["Aman", "Anil", "Ritesh"],
     "recomended_for": "Computer Science Students"

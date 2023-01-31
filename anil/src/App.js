@@ -1,6 +1,7 @@
 import HooksUseState from "./components/hooks/HooksUseState";
 import PropsHandling from "./components/props/PropsHandling";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "./App.css";
 function App() {
   const dt = new Date();
   console.log(dt);
